@@ -15,7 +15,7 @@ Before you start, make sure you have installed [neovim](https://github.com/neovi
 Clone the repository and open neovim
 
 ```shell
-git clone https://github.com/nattrio/lazyvim ~/.config/nvim && nvim
+git clone https://github.com/nattrio/astro-nvim ~/.config/nvim && nvim
 ```
 
 (optional) Remove the git directory
