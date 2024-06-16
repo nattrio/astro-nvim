@@ -9,6 +9,6 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.git.neogit" },
+  { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.completion.copilot-lua" },
 }
