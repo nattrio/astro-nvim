@@ -19,4 +19,5 @@ return {
   -- Tools
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.utility.noice-nvim" },
 }
