@@ -24,6 +24,11 @@ git clone https://github.com/nattrio/astro-nvim ~/.config/nvim && nvim
 rm -rf ~/.config/nvim/.git
 ```
 
+## Essential Tools
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [lazygit](https://github.com/jesseduffield/lazygit)
+
 ## Uninstall
 
 ```shell
