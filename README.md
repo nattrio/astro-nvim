@@ -28,6 +28,8 @@ rm -rf ~/.config/nvim/.git
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [go DiskUsage()](https://github.com/dundee/gdu)
+- [bottom](https://github.com/ClementTsang/bottom)
 
 ## Uninstall
 
