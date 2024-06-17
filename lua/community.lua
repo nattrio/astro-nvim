@@ -10,9 +10,10 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.typescripts" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.bash" },
   -- Frameworks
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.docker" },
